@@ -1,4 +1,4 @@
-class jira-role {
+class role::jira {
 
   include baseos
   include jira-profile
