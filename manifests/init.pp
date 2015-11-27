@@ -1,6 +1,6 @@
 class role::jira {
 
   include baseos
-  include jira-profile
+  include profile::jira
 
 }
